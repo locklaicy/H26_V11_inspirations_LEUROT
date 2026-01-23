@@ -1,2 +1,2 @@
-# H26_V11_inspirations_leurot
+# H26_V11_inspirations_LEUROT
 Répertoire dédié au cours 570 V11 MO – OEUVRES ET DISPOSITIFS MULTIMEDIAS EN EXPOSITION
