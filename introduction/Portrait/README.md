@@ -1,8 +1,8 @@
 # Théana Leurot
 
-![photo](https://github.com/locklaicy/H26_V11_inspirations_LEUROT/blob/main/introduction/Portrait/autoportrait_03.png)
+![photo](https://github.com/locklaicy/H26_V11_inspirations_LEUROT/blob/main/introduction/Portrait/M%C3%A9dia.jpg)
 
->Autoportrait réalisé en cours d'Illustration Numérique
+>Photo de moi prise pendant le cours de Photographie (Automne 2025).
 
 ## Intérêt dans le multimédia 
 
