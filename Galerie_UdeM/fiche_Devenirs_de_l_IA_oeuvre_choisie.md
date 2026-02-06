@@ -1,2 +1,5 @@
 # DEVENIRS PARTAGÉS – PRATIQUES DE L'IA
-![Fiche de présentation de l'exposition](Galerie_UdeM/media/panneau_presentation_exposition.webp)
+
+## Expostion temporaire – Galerie UdeM
+
+![Moi et Anne-Julie devant l'affiche](Galerie_UdeM/media/photo_devant_expo_exterieur.jpg)
