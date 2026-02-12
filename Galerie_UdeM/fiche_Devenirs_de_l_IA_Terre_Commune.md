@@ -12,4 +12,4 @@
 
 ![Cartel de description](Galerie_UdeM/media/presentation_oeuvre.jpg)
 
-L'oeuvre se présente 
+Cette oeuvre, à but interactif, est est composée d'un ordinateur protégé par une boite en verre, où le spectateur ets invité à s'assoir et à équiper un bandeau. Le-dit bandeau est un capteur à ondes, qui reçoit les ondes transmises par notre cerveau pour les envoyer dans l'ordinateur. Ce dernier est programmé pour envoyer le signak dans un onduloscope 
