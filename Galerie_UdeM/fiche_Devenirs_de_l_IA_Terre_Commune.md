@@ -28,6 +28,10 @@ L'ordinateur est programmé pour calculer l'activité cérébrale du spectateur 
 
 >Croquis de la mise en place du dispositif
 
+### Expérience vécue
+
+Cette oeuvre est la première présentée dans l'expostition. Le spectateur observe d'abord l'ensemble du dispositif et les images qui défilemt sur le mur, avant d'enfiler le bandeau et de s'assoir sur le banc en verre et d'observer les résultats.
+
 ### Ce qui m'a plu
 
 Ce dispositif était présenté comme supposément relaxant. Le jour de la visite, je n'étais pas dans le meilleur des états, et je ne pensais pas que j'arriverais à me détendre. Cependant, me concentrer sur l'onduloscope et les images qui défilent m'a un peu aidée à me sentir mieux, même temporairement.
