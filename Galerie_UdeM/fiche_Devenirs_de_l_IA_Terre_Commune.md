@@ -16,7 +16,7 @@
 
 ![Cartel de description](media/presentation_oeuvre.jpg)
 
-Cette oeuvre, à but interactif, est est composée d'un ordinateur protégé par une boite en verre, où le spectateur ets invité à s'assoir et à équiper un bandeau. Le-dit bandeau est un capteur à ondes, qui reçoit les ondes transmises par notre cerveau pour les envoyer dans l'ordinateur.
+Cette oeuvre, à but interactif, est composée d'un ordinateur protégé par une boite en verre, où le spectateur est invité à s'assoir et à équiper un bandeau. Le-dit bandeau est un capteur à ondes, qui reçoit les ondes transmises par notre cerveau pour les envoyer dans l'ordinateur.
 
 ![Ordinateur](media/ordinateur.jpg)
 
@@ -30,6 +30,6 @@ L'ordinateur est programmé pour calculer l'activité cérébrale du spectateur 
 
 ### Ce qui m'a plu
 
-Ce dispositif était présenté comme supposément relaxant. Le jour de la visite, je n'étais pas dans le meilleur des états, et je ne pensais pas que j'arriverais à me détendre. Cependant, me concetrer sur l'onduloscope et les images qui défilent m'a un peu aidée à me sentir mieux, même temporairement.
+Ce dispositif était présenté comme supposément relaxant. Le jour de la visite, je n'étais pas dans le meilleur des états, et je ne pensais pas que j'arriverais à me détendre. Cependant, me concentrer sur l'onduloscope et les images qui défilent m'a un peu aidée à me sentir mieux, même temporairement.
 
 Cependant je n'ai vraiment pas eu l'impression que les images changeait en temps réel, même en observant d'autres personnes essayer. J'avoue avoir été un peu déçue.
