@@ -14,9 +14,14 @@ Métamonument est une expostion temporaire contemplative présentée par Oli Sor
 
 ## Métamonument : l'oeuvre en détail
 
+![Vue d'ensemble de l'eouvre](media/vue_ensemble_oeuvre.jpg)
+
+> Vue d'ensemble de l'oeuvre
+
 ### Description de l'oeuvre
 
 ![Cartel de présentation](media/cartel_oeuvre.jpg)
 
 > Cartel présentant l'oeuvre
 
+L'exposition se présente par divers objets exposés contre deux murs, et parmi ces objets des écrans de différentes taillesqui diffusent des vidéos interconnectées. Ces vidéos présentent divers monuments, qui sont également exposés en version miniature issues d'impression 3D autour des écrans. On trouve également des tapisseries autour des écrans.
