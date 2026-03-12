@@ -16,7 +16,7 @@ Métamonument est une expostion temporaire contemplative présentée par Oli Sor
 
 ### Description de l'oeuvre
 
-![Cartel de présentation](media/cartel_oeuvre)
+![Cartel de présentation](media/cartel_oeuvre.jpg)
 
 > Cartel présentant l'oeuvre
 
