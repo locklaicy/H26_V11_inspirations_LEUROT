@@ -58,7 +58,7 @@ J'ai trouvé intéressante l'idée de connecter chaque élément entre eux et qu
 
 ### Ce qui m'a déplu
 
-J'ai trouvé le message plutôt difficile
+J'ai trouvé le message plutôt difficile à cerner, et j'avoue ne pas avoir entièrement compris le cobncept de l'œuvre.
 
 ### Références
 
