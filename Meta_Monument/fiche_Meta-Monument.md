@@ -26,7 +26,7 @@ Métamonument est une expostion temporaire contemplative présentée par Oli Sor
 
 L'exposition se présente par divers objets exposés contre deux murs, et parmi ces objets des écrans de différentes taillesqui diffusent des vidéos interconnectées. Ces vidéos présentent divers monuments, leurs origines et le contexte de crise dasn lequel ils sont plongés. Des versions miniatures issues d'impression 3D des monuments sont sont également exposées autour des écrans.
 
-### Composantes, dispositions et parcours spectateur
+### Composantes, disposition et parcours spectateur
 
 ![Partie 1](media/composant_ecran_affichage_01.jpg)
 
@@ -50,7 +50,7 @@ L'œuvre ne suit pas un parcours particulier, les deux plus gros écrans diffuse
 
 ### Expérience vécue
 
-La salle d'exposition était vide lors de ma visite, j'ai donc pu prendre
+La salle d'exposition était vide lors de ma visite, j'ai donc pu prendre mon temps pour observer et analyser l'œuvre. J'ai commencé par le plus long mur, en regardant une partie de la vidéo diffusée sur l'un des écrans. J'ai ensuite observé les différentes figurines et tapisseries aui entourait l'écran avec plus ou moins d'intention selon ce qui m'attirait l'œil, en alternant d'un mur à l'autre.
 
 ### Ce qui m'a plu
 
