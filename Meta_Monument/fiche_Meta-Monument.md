@@ -40,7 +40,7 @@ L'œuvre est composée de sept écran disposés sur deux murs perpendiculaires (
 
 ![Partie 4](media/composant_ecran_affichage_04.jpg)
 
-> Mur plus court, parallèle à l'entrée
+> Angle et mur plus court, parallèle à l'entrée
 
 L'œuvre ne suit pas un parcours particulier, les deux plus gros écrans diffusent la même vidéo dans un intervalle de temps différent, ce qui permet à plusieurs personnes de suivre l'exposition en même temps. Le spectateur observe les différentes composantes de l'œuvre et établit au fur et à mesure des liens entre elles.
 
