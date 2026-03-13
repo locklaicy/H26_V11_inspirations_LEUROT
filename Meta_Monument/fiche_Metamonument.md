@@ -64,4 +64,8 @@ J'ai trouvé le message plutôt difficile à cerner, et j'avoue ne pas avoir ent
 
 Photos et croquis réalisés par Théana Leurot
 
-Site consulté : ![Site de la Galerie ELEKTRA](https://www.elektramontreal.ca/metamonument-oli-sorenson?lang=fr)
+Sites consultés :
+
+![Site de la Galerie ELEKTRA](https://www.elektramontreal.ca/metamonument-oli-sorenson?lang=fr)
+
+![Site de l'artiste](https://www.olisorenson.com/art/metamonument.html)
