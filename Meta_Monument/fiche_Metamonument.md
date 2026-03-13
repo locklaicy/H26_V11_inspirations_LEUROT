@@ -6,7 +6,7 @@
 
 > Affiche de l'exposition
 
-Métamonument est une expostion temporaire contemplative présentée par Oli Sorenson et affichée à la Galerie ELEKTRA, dans la période du 16 janvier 2026 au 28 février 2026.
+Métamonument est une exposition temporaire contemplative présentée par Oli Sorenson et affichée à la Galerie ELEKTRA, dans la période du 16 janvier 2026 au 28 février 2026.
 
 ![](media/selfie_lieu_mise_en_exposition.jpg)
 
@@ -24,7 +24,7 @@ Métamonument est une expostion temporaire contemplative présentée par Oli Sor
 
 > Cartel présentant l'œuvre
 
-L'exposition se présente par divers objets exposés contre deux murs, et parmi ces objets des écrans de différentes taillesqui diffusent des vidéos interconnectées. Ces vidéos présentent divers monuments, leurs origines et le contexte de crise dasn lequel ils sont plongés. Des versions miniatures issues d'impression 3D des monuments sont sont également exposées autour des écrans.
+L'exposition se présente par divers objets exposés contre deux murs, et parmi ces objets des écrans de différentes tailles qui diffusent des vidéos interconnectées. Ces vidéos présentent divers monuments, leurs origines et le contexte de crise dans lequel ils sont plongés. Des versions miniatures issues d'impression 3D des monuments sont sont également exposées autour des écrans.
 
 ### Composantes, disposition et parcours spectateur
 
@@ -34,7 +34,7 @@ L'exposition se présente par divers objets exposés contre deux murs, et parmi 
 
 > Mur plus long, perpendiculaire à l'entrée
 
-L'œuvre est composée de sept écran disposés sur deux murs perpendiculaires (nécessaires au dispositif d'exposition), entourés par des miniatures et des tappiseries murales représentant ces monuments
+L'œuvre est composée de sept écrans disposés sur deux murs perpendiculaires (nécessaires au dispositif d'exposition), entourés par des miniatures et des tapisseries murales représentant ces monuments.
 
 ![Partie 3](media/composant_ecran_affichage_03.jpg)
 
@@ -50,15 +50,15 @@ L'œuvre ne suit pas un parcours particulier, les deux plus gros écrans diffuse
 
 ### Expérience vécue
 
-La salle d'exposition était vide lors de ma visite, j'ai donc pu prendre mon temps pour observer et analyser l'œuvre. J'ai commencé par le plus long mur, en regardant une partie de la vidéo diffusée sur l'un des écrans. J'ai ensuite observé les différentes figurines et tapisseries aui entourait l'écran avec plus ou moins d'intention selon ce qui m'attirait l'œil, en alternant d'un mur à l'autre.
+La salle d'exposition était vide lors de ma visite, j'ai donc pu prendre mon temps pour observer et analyser l'œuvre. J'ai commencé par le plus long mur, en regardant une partie de la vidéo diffusée sur l'un des écrans. J'ai ensuite observé les différentes figurines et tapisseries qui entouraient l'écran avec plus ou moins d'intention selon ce qui m'attirait l'œil, en alternant d'un mur à l'autre.
 
 ### Ce qui m'a plu
 
-J'ai trouvé intéressante l'idée de connecter chaque élément entre eux et que le spectateur découvre et comprend à chaque nouvel élément. L'esthétisme visuel est plutôt plaisant, je suis assez sensible aux couleurs vibrantes et aux murs remplis de détails reflétés dans l'exposition.
+J'ai trouvé intéressante l'idée de connecter chaque élément entre eux et que le spectateur découvre et comprend les liens à chaque nouvel élément. L'esthétisme visuel est plutôt plaisant, je suis assez sensible aux couleurs vibrantes et aux murs remplis de détails reflétés dans l'exposition.
 
 ### Ce qui m'a déplu
 
-J'ai trouvé le message plutôt difficile à cerner, et j'avoue ne pas avoir entièrement compris le cobncept de l'œuvre.
+J'ai trouvé le message plutôt difficile à cerner, et j'avoue ne pas avoir entièrement compris le concept de l'œuvre.
 
 ### Références
 
