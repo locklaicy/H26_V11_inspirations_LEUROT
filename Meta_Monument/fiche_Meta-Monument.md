@@ -48,9 +48,17 @@ L'œuvre ne suit pas un parcours particulier, les deux plus gros écrans diffuse
 
 > Croquis
 
-### Mon avis
+### Expérience vécue
 
-J'ai trouvé intéressante l'idée de connecter chaque élément entre eux et que le spectateur découvre et comprend à chaque nouvel élément. L'esthétisme visuel est plutôt plaisant, je suis assez sensible aux couleurs vibrantes et aux murs remplis de détails reflétés dans l'exposition. Le message de l'œuvre reste cependant quelque peu compliquer à cerner.
+La salle d'exposition était vide lors de ma visite, j'ai donc pu prendre
+
+### Ce qui m'a plu
+
+J'ai trouvé intéressante l'idée de connecter chaque élément entre eux et que le spectateur découvre et comprend à chaque nouvel élément. L'esthétisme visuel est plutôt plaisant, je suis assez sensible aux couleurs vibrantes et aux murs remplis de détails reflétés dans l'exposition.
+
+### Ce qui m'a déplu
+
+J'ai trouvé le message plutôt difficile
 
 ### Références
 
