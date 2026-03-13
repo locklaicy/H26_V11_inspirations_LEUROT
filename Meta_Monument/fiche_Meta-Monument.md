@@ -12,17 +12,17 @@ Métamonument est une expostion temporaire contemplative présentée par Oli Sor
 
 > Moi devant l'exposition lors de ma visite, le 27 février 2026
 
-## Métamonument : l'oeuvre en détail
+## Métamonument : l'œuvre en détail
 
-![Vue d'ensemble de l'eouvre](media/vue_ensemble_oeuvre.jpg)
+![Vue d'ensemble de l'œuvre](media/vue_ensemble_oeuvre.jpg)
 
-> Vue d'ensemble de l'oeuvre
+> Vue d'ensemble de l'œuvre
 
-### Description de l'oeuvre
+### Description de l'œuvre
 
 ![Cartel de présentation](media/cartel_oeuvre.jpg)
 
-> Cartel présentant l'oeuvre
+> Cartel présentant l'œuvre
 
 L'exposition se présente par divers objets exposés contre deux murs, et parmi ces objets des écrans de différentes taillesqui diffusent des vidéos interconnectées. Ces vidéos présentent divers monuments, leurs origines et le contexte de crise dasn lequel ils sont plongés. Des versions miniatures issues d'impression 3D des monuments sont sont également exposées autour des écrans.
 
@@ -34,7 +34,7 @@ L'exposition se présente par divers objets exposés contre deux murs, et parmi 
 
 > Mur plus long, perpendiculaire à l'entrée
 
-L'oeuvre est composée de sept écran disposés sur deux murs perpendiculaires (nécessaires au dispositif d'exposition), entourés par des miniatures et des tappiseries murales représentant ces monuments
+L'œuvre est composée de sept écran disposés sur deux murs perpendiculaires (nécessaires au dispositif d'exposition), entourés par des miniatures et des tappiseries murales représentant ces monuments
 
 ![Partie 3](media/composant_ecran_affichage_03.jpg)
 
@@ -42,7 +42,7 @@ L'oeuvre est composée de sept écran disposés sur deux murs perpendiculaires (
 
 > Mur plus court, parallèle à l'entrée
 
-L'oeuvre ne suit pas un parcours particulier, les deux plus gros écrans diffusent la même vidéo dans un intervalle de temps différent, ce qui permet à plusieurs personnes de suivre l'exposition en même temps. Le spectateur observe les différentes composantes de l'oevre et établi au fur et à mesure des liens entre elles.
+L'œuvre ne suit pas un parcours particulier, les deux plus gros écrans diffusent la même vidéo dans un intervalle de temps différent, ce qui permet à plusieurs personnes de suivre l'exposition en même temps. Le spectateur observe les différentes composantes de l'œuvre et établit au fur et à mesure des liens entre elles.
 
 ![Croquis](media/croquis_exposition.png)
 
@@ -50,7 +50,7 @@ L'oeuvre ne suit pas un parcours particulier, les deux plus gros écrans diffuse
 
 ### Mon avis
 
-J'ai trouvé intéressante l'idée de connecter chaque élément entre eux et que le spectateur découvre et comprend à chaque nouvel élément. L'estétisme visuel est plutôt plaisant, je suis assez sensible aux couleurs vibrantes et aux murs remplis de détails reflétés dans l'exposition. Le message de l'oeuvre reste cependant quelque peu compliquer à cerner.
+J'ai trouvé intéressante l'idée de connecter chaque élément entre eux et que le spectateur découvre et comprend à chaque nouvel élément. L'esthétisme visuel est plutôt plaisant, je suis assez sensible aux couleurs vibrantes et aux murs remplis de détails reflétés dans l'exposition. Le message de l'œuvre reste cependant quelque peu compliquer à cerner.
 
 ### Références
 
