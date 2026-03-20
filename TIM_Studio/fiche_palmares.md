@@ -59,6 +59,8 @@ Amira Tounekti, Kristy Moussally
 
 ## Ressenti
 
+Globalement distrayant, même si le concept devient vite répétitif. J'ai malgré tout bien aimé la direction artistique générale.
+
 # Quand les Yeux se Croisent
 
 ## Créateur·ices
@@ -70,6 +72,8 @@ Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 ## Shéma de l'installation
 
 ## Ressenti
+
+J'avoue ne pas avoir vraiment compris le concept de ce projet, cependant j'ai trouvé la direction artistiaue et l'installation cohérenete et intéressante.
 
 # Sources
 
