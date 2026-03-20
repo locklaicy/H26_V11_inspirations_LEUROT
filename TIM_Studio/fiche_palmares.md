@@ -77,11 +77,7 @@ J'avoue ne pas avoir vraiment compris le concept de ce projet, cependant j'ai tr
 
 # Sources
 
-Photos :
-
-Croquis : Théana Leurot
-
-Sites consultés : 
+Photos & croquis : 
 
 - https://pythons-5.github.io/Terminal/#/
 
