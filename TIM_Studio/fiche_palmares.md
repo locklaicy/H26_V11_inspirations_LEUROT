@@ -1,10 +1,16 @@
 # Terminal
 
-## Créateur·ices : Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
+## Créateur·ices
+
+Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
 
 ## Installation
 
 ## Shéma de l'installation
+
+![Croquis](media/croquis_terminal.png)
+
+> Croquis de la disposiotion
 
 ## Ressenti
 
@@ -12,7 +18,9 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 
 # Arbre en Face 
 
-## Créateur·ices : 
+## Créateur·ices
+
+Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dubé
 
 ## Installation
 
@@ -22,7 +30,9 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 
 # Oignon
 
-## Créateur·ices :
+## Créateur·ices
+
+Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 
 ## Installation
 
@@ -32,7 +42,9 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 
 # Océan rouge
 
-## Créateur·ices : 
+## Créateur·ices
+
+Amira Tounekti, Kristy Moussally
 
 ## Installation
 
@@ -42,7 +54,9 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 
 # Quand les Yeux se Croisent
 
-## Créateur·ices : 
+## Créateur·ices
+
+Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 
 ## Installation
 
@@ -50,7 +64,7 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 
 ## Ressenti
 
-# Sources :
+# Sources
 
 Photos :
 
