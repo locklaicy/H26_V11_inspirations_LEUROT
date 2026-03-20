@@ -1,4 +1,4 @@
-# Terminal (https://pythons-5.github.io/Terminal/#/)
+# Terminal
 
 ## Créateur·ices : Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
 
@@ -10,7 +10,7 @@
 
 Il y a eu une grosse évolution entre le prototype que j'ai testé quelques semaines avant l'expostition et la version finale, et j'ai largement préféré la seconde expérience. En tant qu'amatrice de jeux vidéo de manière générale, j'étais ravie de voir ce projet figurer et de pouvoir l'essayer. Malgré sa simplicité apparante, le jeu est amusant. L'aspect collaboratif est efficace et demande un vraqi travail d'équipe. De plus, le jeu est accessible à tout le monde, autant des gens aui jouent tous les jours que des gens qui ne jouent jamais.
 
-# Arbre en Face (https://mammouths.github.io/projet/#/concept/)
+# Arbre en Face 
 
 ## Créateur·ices : 
 
@@ -20,7 +20,7 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 
 ## Ressenti
 
-# Oignon (https://o-i-g-n-o-n.github.io/Mission-decollage/#/)
+# Oignon
 
 ## Créateur·ices :
 
@@ -30,7 +30,7 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 
 ## Ressenti
 
-# Océan rouge (https://deux-intelligence.github.io/deux-neurones/#/concept/)
+# Océan rouge
 
 ## Créateur·ices : 
 
@@ -40,7 +40,7 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 
 ## Ressenti
 
-# Quand les Yeux se Croisent (https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/concept/)
+# Quand les Yeux se Croisent
 
 ## Créateur·ices : 
 
@@ -49,3 +49,21 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 ## Shéma de l'installation
 
 ## Ressenti
+
+# Sources :
+
+Photos :
+
+Croquis : Théana Leurot
+
+Sites consultés : 
+
+- https://pythons-5.github.io/Terminal/#/
+
+- https://mammouths.github.io/projet/#/concept/
+
+- https://o-i-g-n-o-n.github.io/Mission-decollage/#/
+
+- https://deux-intelligence.github.io/deux-neurones/#/concept/
+
+- https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/concept/
