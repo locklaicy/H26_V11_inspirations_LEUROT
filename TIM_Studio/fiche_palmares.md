@@ -14,6 +14,7 @@
 
 ## Ressenti
 
+
 Il y a eu une grosse évolution entre le prototype que j'ai testé quelques semaines avant l'expostition et la version finale, et j'ai largement préféré la seconde expérience. En tant qu'amatrice de jeux vidéo de manière générale, j'étais ravie de voir ce projet figurer et de pouvoir l'essayer. Malgré sa simplicité apparante, le jeu est amusant. L'aspect collaboratif est efficace et demande un vraqi travail d'équipe. De plus, le jeu est accessible à tout le monde, autant des gens aui jouent tous les jours que des gens qui ne jouent jamais.
 
 # Arbre en Face 
@@ -31,6 +32,8 @@ Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Ango
 > Croquis de la disposition
 
 ## Ressenti
+
+Même si je n'ai pas ressenti une grande différence entre ma première et ma deuxième expérience, les deux étaient positives. J'ai trouvé l'expérience plutôt amusante et distrayente et j'ai particulièrement aimé les bruitages.
 
 # Oignon
 
