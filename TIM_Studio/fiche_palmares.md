@@ -8,7 +8,7 @@
 
 ## Shéma de l'installation
 
-![Croquis](media/croquis_terminal.png)
+![Croquis — Terminal](media/croquis_terminal.png)
 
 > Croquis de la disposiotion
 
@@ -25,6 +25,10 @@ Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Ango
 ## Installation
 
 ## Shéma de l'installation
+
+![Croquis — Arbre en Face](media/croquis_arbre_en_face.png)
+
+> Croquis de la disposition
 
 ## Ressenti
 
