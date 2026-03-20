@@ -1,9 +1,51 @@
-– Oignon (https://o-i-g-n-o-n.github.io/Mission-decollage/#/)
+# Terminal (https://pythons-5.github.io/Terminal/#/)
 
-– Arbre en Face (https://mammouths.github.io/projet/#/concept/)
+## Créateur·ices : Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
 
-– Terminal (https://pythons-5.github.io/Terminal/#/)
+## Installation
 
-– Océan rouge (https://deux-intelligence.github.io/deux-neurones/#/concept/)
+## Shéma de l'installation
 
-– Quand les Yeux se Croisent (https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/concept/)
+## Ressenti
+
+Il y a eu une grosse évolution entre le prototype que j'ai testé quelques semaines avant l'expostition et la version finale, et j'ai largement préféré la seconde expérience. En tant qu'amatrice de jeux vidéo de manière générale, j'étais ravie de voir ce projet figurer et de pouvoir l'essayer. Malgré sa simplicité apparante, le jeu est amusant. L'aspect collaboratif est efficace et demande un vraqi travail d'équipe. De plus, le jeu est accessible à tout le monde, autant des gens aui jouent tous les jours que des gens qui ne jouent jamais.
+
+# Arbre en Face (https://mammouths.github.io/projet/#/concept/)
+
+## Créateur·ices : 
+
+## Installation
+
+## Shéma de l'installation
+
+## Ressenti
+
+# Oignon (https://o-i-g-n-o-n.github.io/Mission-decollage/#/)
+
+## Créateur·ices :
+
+## Installation
+
+## Shéma de l'installation
+
+## Ressenti
+
+# Océan rouge (https://deux-intelligence.github.io/deux-neurones/#/concept/)
+
+## Créateur·ices : 
+
+## Installation
+
+## Shéma de l'installation
+
+## Ressenti
+
+# Quand les Yeux se Croisent (https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/concept/)
+
+## Créateur·ices : 
+
+## Installation
+
+## Shéma de l'installation
+
+## Ressenti
