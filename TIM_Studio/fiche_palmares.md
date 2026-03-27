@@ -1,112 +1,116 @@
-# Terminal
+# Palmarès
 
-## Créateur·ices
+## Terminal
+
+### Créateur·ices
 
 Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger
 
-## Installation
+### Installation
 
 ![Vue d'ensemble — Terminal](media/vue_ensemble_terminal.jpeg)
 
 > Vue d'ensemble
 
-## Shéma de l'installation
+### Shéma de l'installation
 
 ![Croquis — Terminal](media/croquis_terminal.png)
 
 > Croquis de la disposition
 
-## Ressenti
+### Ressenti
 
 Il y a eu une grosse évolution entre le prototype que j'ai testé quelques semaines avant l'expostition et la version finale, et j'ai largement préféré la seconde expérience. En tant qu'amatrice de jeux vidéo de manière générale, j'étais ravie de voir ce projet figurer et de pouvoir l'essayer. Malgré sa simplicité apparante, le jeu est amusant. L'aspect collaboratif est efficace et demande un vraqi travail d'équipe. De plus, le jeu est accessible à tout le monde, autant des gens aui jouent tous les jours que des gens qui ne jouent jamais.
 
-# Arbre en Face 
+## Arbre en Face 
 
-## Créateur·ices
+### Créateur·ices
 
 Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dubé
 
-## Installation
+### Installation
 
 ![Vue d'ensemble — Arbre en Face](media/vue_ensemble_arbre_en_face.jpeg)
 
 > Vue d'ensemble
 
-## Shéma de l'installation
+### Shéma de l'installation
 
 ![Croquis — Arbre en Face](media/croquis_arbre_en_face.png)
 
 > Croquis de la disposition
 
-## Ressenti
+### Ressenti
 
 Même si je n'ai pas ressenti une grande différence entre ma première et ma deuxième expérience, les deux étaient positives. J'ai trouvé l'expérience plutôt amusante et distrayente et j'ai particulièrement aimé les bruitages.
 
-# Oignon
+## Oignon
 
-## Créateur·ices
+### Créateur·ices
 
 Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 
-## Installation
+### Installation
 
 ![Vue d'ensemble — Oignon](media/vue_ensemble_oignon.jpeg)
 
 > Vue d'ensemble
 
-## Shéma de l'installation
+### Shéma de l'installation
 
 ![Croquis — Oignon](media/croquis_oignon.png)
 
 > Croquis de la disposition
 
-## Ressenti
+### Ressenti
 
-# Océan rouge
+J'ai beaucoup aimé l'idée du jeu, cependant, même en plusieurs parties avec des amis, nous n'avons jamais réussi à le finir. Certaines consignes et explications des boutons étaient un peu floues, et on ne savait pas toujours auoi faire selon les circonstances. Mais globalement j'ai qudn même bien apprécié l'expérience.
 
-## Créateur·ices
+## Océan rouge
+
+### Créateur·ices
 
 Amira Tounekti, Kristy Moussally
 
-## Installation
+### Installation
 
 ![Vue d'ensemble — Océan Rouge](media/vue_ensemble_ocean_rouge.jpeg)
 
 > Vue d'ensemble
 
-## Shéma de l'installation
+### Shéma de l'installation
 
 ![Croquis — Océan rougen](media/croquis_ocean_rouge.png)
 
 > Croquis de la disposition
 
-## Ressenti
+### Ressenti
 
 Globalement distrayant, même si le concept devient vite répétitif. J'ai malgré tout bien aimé la direction artistique générale.
 
-# Quand les Yeux se Croisent
+## Quand les Yeux se Croisent
 
-## Créateur·ices
+### Créateur·ices
 
 Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 
-## Installation
+### Installation
 
 ![Vue d'ensemble — Quand les Yeux se Croisent](media/vue_ensemble_quand_les_yeux_se_croisent.jpeg)
 
 > Vue d'ensemble
 
-## Shéma de l'installation
+### Shéma de l'installation
 
 ![Croquis — Quand les yeux se croisent](media/croquis_quand_les_yeux_se_croisent.png)
 
 > Croquis de la disposition
 
-## Ressenti
+### Ressenti
 
 J'avoue ne pas avoir vraiment compris le concept de ce projet, cependant j'ai trouvé la direction artistiaue et l'installation cohérenete et intéressante.
 
-# Sources
+## Sources
 
 Photos : Rosa-lee Savoie
 
