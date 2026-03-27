@@ -45,6 +45,10 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 
 ## Shéma de l'installation
 
+![Croquis — Oignon](media/croquis_oignon.png)
+
+> Croquis de la disposition
+
 ## Ressenti
 
 # Océan rouge
@@ -56,6 +60,10 @@ Amira Tounekti, Kristy Moussally
 ## Installation
 
 ## Shéma de l'installation
+
+![Croquis — Océan rougen](media/croquis_ocean_rouge.png)
+
+> Croquis de la disposition
 
 ## Ressenti
 
@@ -71,13 +79,19 @@ Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 
 ## Shéma de l'installation
 
+![Croquis — Quand les yeux se croisent](media/croquis_quand_les_yeux_se_croisent.png)
+
+> Croquis de la disposition
+
 ## Ressenti
 
 J'avoue ne pas avoir vraiment compris le concept de ce projet, cependant j'ai trouvé la direction artistiaue et l'installation cohérenete et intéressante.
 
 # Sources
 
-Photos & croquis : 
+Photos : Rosa-lee Savoie
+
+Croquis : 
 
 - https://pythons-5.github.io/Terminal/#/
 
