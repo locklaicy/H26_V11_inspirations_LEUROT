@@ -28,4 +28,24 @@ J'ai visité cette exposition à deux reprises : la première fois le 24 févrie
 
 ## Fonction et disposition
 
-Le dispositif se présente par quatre socles sur lesquels se trouve
+Le dispositif se présente par quatre socles sur lesquels se trouvent des objets avec lesquels les visiteur·euses peuvent intéragir pour avancer dans le jeu. Ces objets sont reliés à un ordinateur dont l'écran est diffusé per un projecteur sur le mur face aux joueur·euses.
+
+![Mise en espace](media/croquis_symbiose.jpg)
+
+> Mise en espace
+
+![Objet 01](media/element_utilisable_01.jpg)
+
+![Objet 02](media/element_utilisable_02.jpg)
+
+![Objet 03](media/element_utilisable_03.jpg)
+
+![Objet 04](media/element_utilisable_04.jpg)
+
+> Les objets utilisables par les joueur·euses.
+
+## Mon avis
+
+C'est clairement l'installation sur laquelle j'ai pris le plus de plaisir de toute l'exposition. J'y ai joué avec des amis, et je trouve vraiment le concept du gens intéressant et stimulant. Nous avons d'ailleurs battu le record des étudiants qui l'avaietn mis au point !
+
+La différence entre le prototype et le produit final est également importante. Bien que déjà intéressant, le prototype avait quelques errueurs aui renqaient le jeu plus frustrant, d'une certaine manière, mais elles ont été corrigées dans la verison finale.
