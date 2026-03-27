@@ -6,14 +6,17 @@
 
 ## Installation
 
+![Vue d'ensemble — Terminal](media/vue_ensemble_terminal.jpeg)
+
+> Vue d'ensemble
+
 ## Shéma de l'installation
 
 ![Croquis — Terminal](media/croquis_terminal.png)
 
-> Croquis de la disposiotion
+> Croquis de la disposition
 
 ## Ressenti
-
 
 Il y a eu une grosse évolution entre le prototype que j'ai testé quelques semaines avant l'expostition et la version finale, et j'ai largement préféré la seconde expérience. En tant qu'amatrice de jeux vidéo de manière générale, j'étais ravie de voir ce projet figurer et de pouvoir l'essayer. Malgré sa simplicité apparante, le jeu est amusant. L'aspect collaboratif est efficace et demande un vraqi travail d'équipe. De plus, le jeu est accessible à tout le monde, autant des gens aui jouent tous les jours que des gens qui ne jouent jamais.
 
@@ -24,6 +27,10 @@ Il y a eu une grosse évolution entre le prototype que j'ai testé quelques sema
 Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dubé
 
 ## Installation
+
+![Vue d'ensemble — Arbre en Face](media/vue_ensemble_arbre_en_face.jpeg)
+
+> Vue d'ensemble
 
 ## Shéma de l'installation
 
@@ -43,6 +50,10 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 
 ## Installation
 
+![Vue d'ensemble — Oignon](media/vue_ensemble_oignon.jpeg)
+
+> Vue d'ensemble
+
 ## Shéma de l'installation
 
 ![Croquis — Oignon](media/croquis_oignon.png)
@@ -58,6 +69,10 @@ Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach, Jad Saloumi
 Amira Tounekti, Kristy Moussally
 
 ## Installation
+
+![Vue d'ensemble — Océan Rouge](media/vue_ensemble_ocean_rouge.jpeg)
+
+> Vue d'ensemble
 
 ## Shéma de l'installation
 
@@ -76,6 +91,10 @@ Globalement distrayant, même si le concept devient vite répétitif. J'ai malgr
 Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif
 
 ## Installation
+
+![Vue d'ensemble — Quand les Yeux se Croisent](media/vue_ensemble_quand_les_yeux_se_croisent.jpeg)
+
+> Vue d'ensemble
 
 ## Shéma de l'installation
 
