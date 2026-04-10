@@ -1,1 +1,1 @@
-Fihier aui regroupe les médias utilisés.
+Fichier qui regroupe les médias utilisés.
