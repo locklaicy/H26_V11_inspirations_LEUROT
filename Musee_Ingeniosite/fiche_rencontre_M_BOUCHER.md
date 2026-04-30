@@ -8,7 +8,7 @@ Martin Boucher est technicien multimédia au musée de l'Ingéniosité J. Armand
 
 Martin Boucher nous a d'abord présenté la mise en exposition de l'un des éléments du musée. Il nous a présenté les équipements de la salle, et a évoqué à quel point le budget pouvait affecter ceux-ci. Een l'occurrence, cette exposition-ci utilisait des projecteurs lasers qui selon lui étaient plus adaptés à une salle de classe qu'un musée. Il nous a aussi expliqué que la totalité du matériel était lié et programmé à l’avance sur des cartes.
 
-![L'un des murs de projection vidéo](media/mise_en_exposition.jpg)
+![L'un des murs de projection vidéo](media/mur_projection_musee_ingeniosite_bombarider.jpg)
 
 > Le mur de projection vidéo
 
