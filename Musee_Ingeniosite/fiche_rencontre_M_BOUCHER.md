@@ -2,11 +2,15 @@
 
 ## Présentation du conférencier
 
-Martin Boucher est technicien multimédia au musée de l'Ingéniosité J Armand Bombardier. Son travail consiste à maintenir en service les dispositifs et le matériel qui les compose. Il fait également du motion design et de la conception sonore pour certaines des expositions.
+Martin Boucher est technicien multimédia au musée de l'Ingéniosité J. Armand Bombardier. Son travail consiste à maintenir en service les dispositifs et le matériel qui les compose. Il fait également du motion design et de la conception sonore pour certaines des expositions.
 
 ## Décortiquer une oeuvre multimédia
 
 Martin Boucher nous a d'abord présenté la mise en exposition de l'un des éléments du musée. Il nous a présenté les équipements de la salle, et a évoqué à quel point le budget pouvait affecter ceux-ci. Een l'occurrence, cette exposition-ci utilisait des projecteurs lasers qui selon lui étaient plus adaptés à une salle de classe qu'un musée. Il nous a aussi expliqué que la totalité du matériel était lié et programmé à l’avance sur des cartes.
+
+![L'un des murs de projection vidéo](media/mise_en_exposition.jpg)
+
+> Le mur de projection vidéo
 
 ## Décortiquer un projet de bonification
 
@@ -15,3 +19,7 @@ Martin Boucher a ensuite présenté un dispositif qui porte sur l’explication 
 ## Conclusion
 
 J'ai trouvé cette conférence vraiment intéressante. Les exemples choisis pour présenter le sujet étaient pertinents, et j'en suis sortie avec la réelle impression d'apprendre quelque chose. Notamment sur la deuxième partie, je trouvais ça intriguant de voir l'évolution d'un dispositif pour le rendre plus attrayant au public.
+
+## Site consulté/source des images
+
+[Musée de l'ingéniosité J. Armand Bombardier](https://museebombardier.com/expositions/histoires-de-passions/)
